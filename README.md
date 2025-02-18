@@ -1,2 +1,7 @@
-# clone-amazon-tailwindcss
-Usando o Tailwindcss 4 para recriar  a página inicial do e-commerce da Amazon.com
+# Clone Amazon.com com Tailwindcss 4
+
+Recriado a página home do site Amazon.com utilizando Tailwindcss 4.0
+
+
+## Screenshot
+![](https://github.com/oliveiradeflavio/clone-amazon-tailwindcss/blob/main/Clone%20Amazon%20com%20Tailwindcss.png?raw=true)
